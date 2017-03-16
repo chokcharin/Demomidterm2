@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamMidterm</string>
+    <string name="main">ExamMidterm</string>
+    <string name="action_add_new_menu">Add</string>
+</resources>
